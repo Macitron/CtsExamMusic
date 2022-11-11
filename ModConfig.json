@@ -1,0 +1,26 @@
+{
+  "ModId": "p5rpc.music.CtsExamMusic",
+  "ModName": "Continuous Exam Music",
+  "ModAuthor": "Macitron",
+  "ModVersion": "1.0.0",
+  "ModDescription": "Stops the music from resetting each day during exams.",
+  "ModDll": "p5rpc.music.CtsExamMusic.dll",
+  "ModIcon": "Preview.png",
+  "ModR2RManagedDll32": "x86/p5rpc.music.CtsExamMusic.dll",
+  "ModR2RManagedDll64": "x64/p5rpc.music.CtsExamMusic.dll",
+  "ModNativeDll32": "",
+  "ModNativeDll64": "",
+  "IsLibrary": false,
+  "ReleaseMetadataFileName": "p5rpc.music.CtsExamMusic.ReleaseMetadata.json",
+  "PluginData": {},
+  "IsUniversalMod": false,
+  "ModDependencies": [
+    "p5rpc.modloader",
+    "reloaded.sharedlib.hooks"
+  ],
+  "OptionalDependencies": [],
+  "SupportedAppId": [
+    "p5r.exe"
+  ],
+  "ProjectUrl": ""
+}
